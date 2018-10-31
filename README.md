@@ -29,6 +29,7 @@ While working on an M-Brane project, we ask you to respect the following rules:
 - Add Screenshots/Gifs
 - [Link it to the relevant issue(s)](Closing Issues via Pull Requests)
 - Make the title obvious
+- [Emojis are cool](./pr-message-emoji.md)
 
 ### Pull request review
 
