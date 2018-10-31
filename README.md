@@ -7,11 +7,11 @@ While working on an M-Brane project, we ask you to respect the following rules:
 - Pay attention to everyone's opinion
 - Trust and have confidence in the team (don't give orders)
 - Get the best tools or ask for them
-- Always ask questions
-- Always answer questions without judging
 
 ## Communication
 
+- Always ask questions
+- Always answer questions without judging
 - Every working day, send a message in #standup to update the team
 - No one is expected to reply immediately
 - Over-communicate everything
