@@ -27,7 +27,7 @@ While working on an M-Brane project, we ask you to respect the following rules:
 
 - Give an explicit title
 - Add Screenshots/Gifs
-- [Link it to the relevant issue](Closing Issues via Pull Requests)
+- [Link it to the relevant issue(s)](https://blog.github.com/2013-05-14-closing-issues-via-pull-requests)
 - Make the title obvious
 - [Emojis are cool](./pr-message-emoji.md)
 
