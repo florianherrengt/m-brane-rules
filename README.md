@@ -15,6 +15,7 @@ While working on an M-Brane project, we ask you to respect the following rules:
 - Every working day, send a message in #standup to update the team
 - No one is expected to reply immediately
 - Over-communicate everything
+- Body language is important. When on a call, please turn on your camera
 
 ## Engineers
 
