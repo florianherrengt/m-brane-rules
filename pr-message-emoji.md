@@ -6,4 +6,4 @@
 | Cosmetic /Refactor         | :art: `:art:`                                 |
 | Continuous Integration     | :green_heart: `:green_heart:`                 |
 | Critical hotfix            | :ambulance: `:ambulance:`                     |
-| For Devs                   | :wrench: `:wrench:`                           |
+| Tooling                    | :wrench: `:wrench:`                           |
